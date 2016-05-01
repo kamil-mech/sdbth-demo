@@ -1,5 +1,12 @@
 # sdbth-demo
 
+## Requirements
+- git
+- node
+- docker
+
+## Usage
+
 `bash sdbth-setup.sh`
 
 or
