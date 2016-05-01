@@ -1,5 +1,7 @@
 # sdbth-demo
 
+[seneca-db-test-harness](https://github.com/kamil-mech/seneca-db-test-harness)
+
 ## Requirements
 - git
 - node
